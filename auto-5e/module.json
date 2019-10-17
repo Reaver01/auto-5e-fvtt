@@ -1,0 +1,14 @@
+{
+    "name": "auto-5e",
+    "title": "Auto 5e",
+    "description": "Automate all the things!",
+    "version": "0.1",
+    "author": "Reaver#4634",
+    "scripts": ["auto-5e.js"],
+    "styles": [],
+    "packs": [],
+    "systems": ["dnd5e"],
+    "url": "https://github.com/Reaver01/auto-5e-fvtt/tree/master/auto-5e",
+    "manifest": "https://raw.githubusercontent.com/Reaver01/auto-5e-fvtt/master/auto-5e/module.json",
+    "download": "https://raw.githubusercontent.com/Reaver01/auto-5e-fvtt/tree/master/auto-5e.zip"
+  }
